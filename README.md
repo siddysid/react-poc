@@ -1,4 +1,4 @@
-This project is about creating a product list using context.
+This project is about creating a product list using context. Check ProductList component inside code.
 
 ### `npm start`
 
