@@ -15,25 +15,9 @@ const MenuNav = () => {
         </Grid>
         <Grid item>
           <Typography variant="body2" component="p">
-            <Link to="/tickets">TICKET</Link>
-          </Typography>
-        </Grid>
-        <Grid item>
-          <Typography variant="body2" component="p">
-            <Link to="/forms">FORMS</Link>
-          </Typography>
-        </Grid>
-        <Grid item>
-          <Typography variant="body2" component="p">
             <Link to="/movies">Movies</Link>
           </Typography>
         </Grid>
-        <Grid item>
-          <Typography variant="body2" component="p">
-           ART
-          </Typography>
-        </Grid>
-
       </Grid>
 
     );
