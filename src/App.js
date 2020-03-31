@@ -10,14 +10,7 @@ import {
     Switch,
     Route,
   } from "react-router-dom";
-import { useSelector } from 'react-redux';
 
-
-  // Store
-
-  // Action
-
-  // Redducer
 function App() {
 
 
